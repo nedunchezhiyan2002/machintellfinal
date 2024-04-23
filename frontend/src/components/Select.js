@@ -30,7 +30,7 @@ function Select ({products}){
             <ul className="listitems">
                 {productList.map((product, index) => (
                     <li className='listitem' key={index}>
-                        <button onClick={() => selectionClick(product)}>{product}</button>
+                        <button className="prod" onClick={() => selectionClick(product)}>{product}</button>
                     </li>
                 ))}
             </ul>
