@@ -1,4 +1,5 @@
-Hosted Link:- https://machintellfinal.onrender.com/
+Hosted Link:- https://machintellfinal.onrender.com/ <br>
+[Free instance will spin down with inactivity, which can delay requests by 50 seconds or more]
 
 Documentation to access:-<br>
 Product -> select a product -> displays a list of product -> button click + configure flcps -> displays elements of a particular product -> configure factory layer -> design documents ->table with edit button -> edit button (onclick) form is shown 
